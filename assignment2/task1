@@ -1,0 +1,9 @@
+# Name: Gayatri
+# Roll No: 2510303207
+# Assignment: Assignment 2
+# Task: Task 1, 2 & 3
+
+# Task 1: Create bare remote and add origin
+git init --bare ../html-remote
+git remote add origin ../html-remote
+git remote -v
