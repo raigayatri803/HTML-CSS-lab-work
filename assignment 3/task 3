@@ -1,0 +1,17 @@
+<!--
+  Name: Gayatri
+  Roll No: 2510303207
+  Assignment: Assignment 3
+  Task: Task 3
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Text Formatting</title>
+</head>
+<body>
+    <p>Learning HTML is <strong>essential</strong> for web development and building modern sites.</p>
+    <p>Practice everyday to become <em>proficient</em> in coding.<br>This text appears on a new line after the break.</p>
+</body>
+</html>
