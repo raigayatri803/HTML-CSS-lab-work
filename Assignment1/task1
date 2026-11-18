@@ -1,0 +1,14 @@
+# Name: Gayatri
+# Roll No: 2510303207
+# Assignment: Assignment 1
+# Task: Task 1
+
+# Task 1: Initialize repository and set local config
+mkdir html-lab
+cd html-lab
+git init
+git config --local user.name "Gayatri"
+git config --local user.email "gayatri@example.com"
+git config user.name
+git config user.email
+
