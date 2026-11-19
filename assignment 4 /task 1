@@ -1,0 +1,18 @@
+<!--
+  Name: Gayatri
+  Roll No: 2510303207
+  Assignment: Assignment 4
+  Task: Task 1
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Layout Divs</title>
+</head>
+<body>
+    <div class="header">This is the header section.</div>
+    <div class="main">This is the main content area.</div>
+    <div class="footer">This is the footer section.</div>
+</body>
+</html>
