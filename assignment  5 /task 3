@@ -1,0 +1,17 @@
+<!--
+  Name: Gayatri
+  Roll No: 2510303207
+  Assignment: Assignment 5
+  Task: Task 3
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Portfolio Image</title>
+</head>
+<body>
+    <h1>Featured Project Image</h1>
+    <img src="images/sample.jpg" width="200" height="200" alt="Sample project preview thumbnail">
+</body>
+</html>
