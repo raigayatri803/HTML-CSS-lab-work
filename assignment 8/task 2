@@ -1,0 +1,27 @@
+<!--
+  Name: Asha / Your Name
+  Roll Number: Your Roll Number
+  Assignment: Assignment 8 - Task 2 (choices.html)
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Choices Form</title>
+</head>
+<body>
+    <h1>Select Preferences</h1>
+    <form>
+        <p>Gender:</p>
+        <label><input type="radio" name="gender" value="female"> Female</label>
+        <label><input type="radio" name="gender" value="male"> Male</label>
+        
+        <br><br>
+        <label for="course">Course:</label>
+        <select id="course" name="course">
+            <option value="bca">BCA</option>
+            <option value="btech">B.Tech</option>
+        </select>
+    </form>
+</body>
+</html>
