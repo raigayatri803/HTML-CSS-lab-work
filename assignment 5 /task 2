@@ -1,0 +1,18 @@
+<!--
+  Name: Gayatri
+  Roll No: 2510303207
+  Assignment: Assignment 5
+  Task: Task 2
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Portfolio Page</title>
+</head>
+<body>
+    <h1>My Portfolio</h1>
+    <p>Here are some of my works.</p>
+    <p><a href="home.html">Back to Home Page</a></p>
+</body>
+</html>
