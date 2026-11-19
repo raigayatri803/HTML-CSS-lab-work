@@ -1,0 +1,39 @@
+<!--
+  Name: Asha / Your Name
+  Roll Number: Your Roll Number
+  Assignment: Assignment 9 - Task 3 (marks-accessible.html)
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Accessible Table</title>
+    <style>
+        table, th, td { border: 1px solid black; border-collapse: collapse; padding: 6px; }
+    </style>
+</head>
+<body>
+    <table>
+        <caption>Marks of Class A</caption>
+        <thead>
+            <tr>
+                <th scope="col">Name</th>
+                <th scope="col">Maths</th>
+                <th scope="col">Science</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">Asha</th>
+                <td>78</td>
+                <td>85</td>
+            </tr>
+            <tr>
+                <th scope="row">Rohan</th>
+                <td>64</td>
+                <td>70</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
