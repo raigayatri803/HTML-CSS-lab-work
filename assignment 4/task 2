@@ -1,0 +1,18 @@
+<!--
+  Name: Gayatri
+  Roll No: 2510303207
+  Assignment: Assignment 4
+  Task: Task 2
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Custom Attributes</title>
+</head>
+<body>
+    <div id="profile">
+        <p data-topic="hobbies">Reading books and coding are my favorite spare-time activities.</p>
+    </div>
+</body>
+</html>
