@@ -1,0 +1,22 @@
+<!--
+  Name: Gayatri
+  Roll No: 2510303207
+  Assignment: Assignment 6
+  Task: Task 3
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Library FAQ</title>
+</head>
+<body>
+    <h1>Library FAQ</h1>
+    <dl>
+        <dt>How many books can I borrow?</dt>
+        <dd>You can borrow up to 4 books at a time.</dd>
+        <dt>Is the library open on Sunday?</dt>
+        <dd>No, the library is closed on Sundays.</dd>
+    </dl>
+</body>
+</html>
