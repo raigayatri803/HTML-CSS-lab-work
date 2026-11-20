@@ -1,0 +1,22 @@
+<!-- Name: Student Name | Roll No: [Roll Number] | Assignment: 12 (Task 2) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Styled Card</title>
+  <style>
+    .card {
+      background-color: #f8fafc;
+      border: 2px solid #334155;
+      border-radius: 12px;
+      padding: 16px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h3>Lab Notice</h3>
+    <p>Save all assignment files with clear names before demonstration.</p>
+  </div>
+</body>
+</html>
