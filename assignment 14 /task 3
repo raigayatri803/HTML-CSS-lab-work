@@ -1,0 +1,31 @@
+<!-- Name: Student Name | Roll No: [Roll Number] | Assignment: 14 (Task 3) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dashboard Grid Areas</title>
+  <style>
+    .dashboard {
+      display: grid;
+      grid-template-columns: 200px 1fr;
+      grid-template-areas:
+        "header header"
+        "sidebar main"
+        "footer footer";
+      gap: 8px;
+    }
+    .header { grid-area: header; background: #dbeafe; padding: 10px; }
+    .sidebar { grid-area: sidebar; background: #f1f5f9; padding: 10px; }
+    .main { grid-area: main; background: #f8fafc; padding: 10px; }
+    .footer { grid-area: footer; background: #e2e8f0; padding: 10px; }
+  </style>
+</head>
+<body>
+  <div class="dashboard">
+    <div class="header">Header</div>
+    <div class="sidebar">Sidebar</div>
+    <div class="main">Main Area</div>
+    <div class="footer">Footer</div>
+  </div>
+</body>
+</html>
