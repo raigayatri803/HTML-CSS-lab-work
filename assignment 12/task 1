@@ -1,0 +1,24 @@
+<!-- Name: Student Name | Roll No: [Roll Number] | Assignment: 12 (Task 1) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Box Model Comparison</title>
+  <style>
+    .content-box {
+      box-sizing: content-box;
+      width: 200px; padding: 20px; border: 5px solid #0f294a;
+      background: #eff6ff; margin-bottom: 10px;
+    }
+    .border-box {
+      box-sizing: border-box;
+      width: 200px; padding: 20px; border: 5px solid #0f294a;
+      background: #fef2f2;
+    }
+  </style>
+</head>
+<body>
+  <div class="content-box">content-box (total 250px)</div>
+  <div class="border-box">border-box (total 200px)</div>
+</body>
+</html>
