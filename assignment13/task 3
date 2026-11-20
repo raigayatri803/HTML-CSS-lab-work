@@ -1,0 +1,21 @@
+<!-- Name: Student Name | Roll No: [Roll Number] | Assignment: 13 (Task 3) -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Stationery Shop</title>
+  <style>
+    .row { display: flex; flex-wrap: wrap; gap: 12px; }
+    .card { border: 1px solid #94a3b8; padding: 12px; width: 140px; }
+  </style>
+</head>
+<body>
+  <h1>Stationery Shop</h1>
+  <div class="row">
+    <div class="card"><h3>Notebook</h3><p>60</p></div>
+    <div class="card"><h3>Pen</h3><p>15</p></div>
+    <div class="card"><h3>Bag</h3><p>350</p></div>
+    <div class="card"><h3>Book</h3><p>120</p></div>
+  </div>
+</body>
+</html>
