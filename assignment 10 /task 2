@@ -1,0 +1,22 @@
+/*
+Name: Gayatri rai
+Roll no.: 2510303207
+ID: BCS2025554
+Assignment 10 - Task 2
+*/
+h1 {
+  color: navy;
+}
+
+.note {
+  font-style: italic;
+}
+
+#title {
+  text-decoration: underline;
+}
+
+p {
+  font-size: 18px;
+  color: gray;
+}
